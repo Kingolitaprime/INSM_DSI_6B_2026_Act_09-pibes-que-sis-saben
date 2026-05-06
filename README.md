@@ -1,1 +1,1 @@
-1. Creamos los archivos template en main, para copiarlos a las otras branches
+3.Añadido cpntrol de temperatura negativa
