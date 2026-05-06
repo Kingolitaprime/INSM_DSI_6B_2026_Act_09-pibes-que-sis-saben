@@ -1,2 +1,1 @@
-# INSM_DSI_6B_2026_Act_09-pibes-que-sis-saben
-oh si
+1. Creamos los archivos template en main, para copiarlos a las otras branches
